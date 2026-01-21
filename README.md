@@ -8,5 +8,5 @@
 
 4. I will use React for frontend and nodejs for backend. 
 
-5. 
+5.I will be deployed AWS since it assure 99.99% uptime and they provide pay-as-you-go pricing option. So I can run the system with minimal cost until growing. And also I can use Dynamodb as NoSQL database to store product data.
 
