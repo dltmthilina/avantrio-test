@@ -8,5 +8,5 @@
 
 4. I will use React for frontend and nodejs for backend. 
 
-5. 
+5.I will be deployed AWS since it assure 99.99% uptime and they provide pay-as-you-go pricing option. So I can run the system with minimal cost until growing. And also I can use Dynamodb as NoSQL database to store product data. Further, React frontend will be put into a s3 bucket and configure domain name with CloudFront distribution and Attach ACM certificate to use https. Backend will be deployed on ECS container with EC2 launch type. I provide horizontal scaling when growing the platform.
 
